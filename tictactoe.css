@@ -3,6 +3,10 @@
   margin-left: 43%;
 }
 
+body{
+  background-color: azure;
+}
+
 td {
   height:150px;
   width:150px;
